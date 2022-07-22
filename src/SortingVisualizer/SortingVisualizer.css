@@ -1,0 +1,31 @@
+.array-container {
+    position: absolute;
+    left: 10px;
+}
+
+
+h1 {
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    font-size: 54px;
+    font-weight: 300;
+    line-height: 58px;
+    margin: 0 0 58px;
+}
+
+html {
+    background-color: #282828;
+}
+
+.mycont,
+.name {
+    display: block;
+    justify-content: center;
+}
+
+.array-bar {
+    width: 6px;
+    background-color: turquoise;
+    display: inline-block;
+    margin: 0 1px;
+}
